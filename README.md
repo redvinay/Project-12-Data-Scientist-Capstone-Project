@@ -1,7 +1,9 @@
 # Udacity Nanodegree Capstone Project--Sparkify
 
 
-## Project Backgound
+### Overview
+The objective of the Sparkify company is to detect the users cancellation decision before it happens and provide them with the better offers in order to retain them and in other words reduce the churn rate.
+
 ### Approach  
 1. Loading the large datasets into Spark and manipulating them using Spark SQL and Spark Dataframes
 2. Using the machine learning APIs within Spark ML to build and tune models
