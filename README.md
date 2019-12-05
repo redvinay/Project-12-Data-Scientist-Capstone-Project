@@ -22,7 +22,9 @@ Procedures of analysis:
 2. Data exploration and Understanding
 3. Feature engineering
 4. Modeling
-5. Conclusion
+5. Enhancements
+6. Results
+7. Conclusion
 
 ###Conclusion:  
 Four models, logistice regression, Decision Tree, Gradient Bossted Tree and random forest are tested. Decision Tree was found to 
